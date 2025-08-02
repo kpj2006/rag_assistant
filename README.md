@@ -2,6 +2,8 @@
 
 A powerful, open-source **Retrieval-Augmented Generation (RAG)** question-answering assistant that runs entirely with open-source tools and Python. No frontend interface required - works completely through the command line!
 
+![Demo](./video.gif)
+
 ## 🌟 Features
 
 - **📄 PDF Processing**: Extracts text from PDF files using PyMuPDF and pdfplumber with fallback support
