@@ -2,7 +2,7 @@
 
 A powerful, open-source **Retrieval-Augmented Generation (RAG)** question-answering assistant that runs entirely with open-source tools and Python. No frontend interface required - works completely through the command line!
 
-![Demo](./video.gif)
+<img src="./video.gif" alt="Demo" width="800" height="600"/>
 
 ## 🌟 Features
 
